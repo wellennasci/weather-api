@@ -20,3 +20,5 @@ class WeatherReadingOut(WeatherReadingBase):
 
     class Config:
         orm_mode = True
+
+        ##

@@ -16,5 +16,5 @@ O projeto foi desenvolvido com **FastAPI**, **SQLAlchemy**, **Pydantic** e **Pyt
 ✔️ Documentação automática com Swagger UI  
 ✔️ Variáveis sensíveis isoladas em `.env`  
 
----
+
 
